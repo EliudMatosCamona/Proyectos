@@ -1,0 +1,43 @@
+
+    header{
+        background-color: white;
+        width: 1000px;
+        height: 200px;
+        margin: 0 auto;
+        position: relative;
+    }
+    header img{
+        position: absolute;
+        width: 150px;
+        top: 0px;
+        left: 35px;
+    }
+    header p{
+        position: absolute;
+        bottom: 5px;
+        left: 30px;
+    }
+    header ul{
+        position: absolute;
+        bottom: 0;
+        right: 350px;
+    }
+    header ul li{
+        display: inline-block;
+        font-size: 17px;
+        margin-left: 10px;
+        
+    }
+    #menu {
+        margin-left: 184px;
+    }
+    body{
+        background: linear-gradient(to left, #3a7bd5, #3a6073);
+        margin: 0 auto;
+        padding: 0%;
+    }
+    #menu img{
+        margin-left: -8px;
+        width: 1000px;
+        height: 400px;
+    }
